@@ -38,7 +38,7 @@ Embark on a journey through the fascinating world of Natural Language Processing
 Begin your NLP journey by cloning the repository to your local machine. In your terminal or command prompt, navigate to your preferred workspace and run:
 
 ```bash
-git clone https://github.com/YourUsername/PyNLPToolkit.git
+git clone https://github.com/Roberadesissai/PyNLPToolkit.git
 ```
 
 ### Setting Up Projects
